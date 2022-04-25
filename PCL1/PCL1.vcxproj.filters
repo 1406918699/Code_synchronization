@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ply_to_pcd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KD_Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Oc_tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="interactive_icp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pclvisualizer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample_Consensus_model.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="random_sample_consensus.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="range_image_creation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="icp_demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="txt2pcd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="filters_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="filters_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="viewer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="create_pcd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="normal_estimation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CloudResolution.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="greed_projection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="poisson_surface_reconstruction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="marching_cubes_hoppe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bspline_fitting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cloud_split.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="multi_viewer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ply_to_ply.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="机器人学作业.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数值计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resolution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
